@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Shahriar Raj 👋
 
-<!--
-**shahriar-raj/shahriar-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://your-profile-pic-url)
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Undergraduate Senior, BUET CSE
+- 📫 How to reach me: shahriarraj121@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages: [List]
+- Frameworks: [List]
+- Tools: [List]
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-raj&show_icons=true)
+
+## 📫 Contact Me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](link)
+- [Twitter](link)
