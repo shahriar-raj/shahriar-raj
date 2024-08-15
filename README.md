@@ -1,6 +1,6 @@
 # Hi there, I'm Shahriar Raj 👋
 
-# About Me
+# About Me 👦
 - 🎓 Undergraduate Senior, BUET CSE
 - 📫 How to reach me: shahriarraj121@gmail.com
 
