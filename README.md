@@ -9,6 +9,9 @@ In this section. I will link mostly the sessional home and lab assignments I com
 <br>
 # ![Colored Badge](https://img.shields.io/badge/Level_1_Term_1-223a57)
 [**CSE 102 : Structured Programming Language Sessional**](https://github.com/shahriar-raj/CSE_102-Structured-Programming-Language-Sessional.git)
+<br>
+# ![Colored Badge](https://img.shields.io/badge/Level_1_Term_2-223a57)
+[**CSE 108 : Object Oriented Programming Language Sessional**](https://github.com/shahriar-raj/CSE_108-Object-Oriented-Programming-Language-Sessional.git)
 
 # 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
