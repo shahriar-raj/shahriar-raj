@@ -29,6 +29,9 @@ In this section. I will link mostly the sessional home and lab assignments I com
 [**CSE 318 : Artificial Intelligence Sessional**](https://github.com/shahriar-raj/CSE_318-Artificial-Intelligence-Sessional.git) <br>
 [**CSE 326 : Information System Design Sessional**](https://github.com/shahriar-raj/CSE_326-Information-System-Design-Sessional.git) <br>
 [**CSE 326 : ReMan Module Implementation**](https://github.com/shahriar-raj/CSE_326-ReMan-Module-Implementation.git) <br>
+
+# ![Colored Badge](https://img.shields.io/badge/Level_4_Term_1-223a57)
+[**CSE 406 : Computer Security Project**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Project.git)
 # 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shahriar-raj-724638213/)
