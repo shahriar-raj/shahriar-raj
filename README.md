@@ -15,6 +15,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-raj&show_icons=true)
 
 ## 📫 Contact Me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](link)
+- [Email](mailto:shahriarraj121@gmail.com)
+- [LinkedIn]()
 - [Twitter](link)
+- [Facebook](https://www.facebook.com/shahriarraj24/)
