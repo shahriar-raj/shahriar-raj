@@ -8,6 +8,8 @@
 In this section. I will link mostly the sessional home and lab assignments I completed.
 <br>
 
+$${\color{red}Welcome}$$
+
 # ![Colored Badge](https://img.shields.io/badge/Level_1_Term_1-223a57)
 
 # 📫 Contact Me
