@@ -6,7 +6,7 @@
 
 # Academic Repos
 In this section. I will link mostly the sessional home and lab assignments I completed.
-![Colored Badge](https://img.shields.io/badge/"Level-1 Term-1"-ff00ff)
+![Colored Badge](https://img.shields.io/badge/Level-1_Term-1-ff00ff)
 
 
 # 📫 Contact Me
