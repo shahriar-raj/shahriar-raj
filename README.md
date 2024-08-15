@@ -5,7 +5,7 @@
 - 📫 How to reach me: shahriarraj121@gmail.com
 
 # Academic Repos 📚
-In this section. I will link mostly the sessional home and lab assignments I completed. <br>
+In this section. I will link mostly the sessional home and lab assignments I completed during my undergraduate years. <br>
 # ![Colored Badge](https://img.shields.io/badge/Level_1_Term_1-223a57)
 [**CSE 102 : Structured Programming Language Sessional**](https://github.com/shahriar-raj/CSE_102-Structured-Programming-Language-Sessional.git)
 <br>
