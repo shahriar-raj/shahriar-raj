@@ -7,7 +7,7 @@
 # Academic Repos
 In this section. I will link mostly the sessional home and lab assignments I completed.
 ## Level-1 Term-1
-<span style="color:blue;">This text is blue</span>
+![Colored Badge](https://img.shields.io/badge/CSE_101-Red)
 
 # 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
