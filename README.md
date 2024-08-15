@@ -8,7 +8,7 @@
 In this section. I will link mostly the sessional home and lab assignments I completed.
 <br>
 
-#![Colored Badge](https://img.shields.io/badge/Level_1_Term_1-223a57)
+# ![Colored Badge](https://img.shields.io/badge/Level_1_Term_1-223a57)
 
 # 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
