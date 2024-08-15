@@ -6,16 +6,7 @@
 - 🎓 Undergraduate Senior, BUET CSE
 - 📫 How to reach me: shahriarraj121@gmail.com
 
-## 🛠️ Skills
-- Programming Languages: [List]
-- Frameworks: [List]
-- Tools: [List]
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriar-raj&show_icons=true)
-
 ## 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
-- [LinkedIn]()
-- [Twitter](link)
+- [LinkedIn](https://www.linkedin.com/in/shahriar-raj-724638213/)
 - [Facebook](https://www.facebook.com/shahriarraj24/)
