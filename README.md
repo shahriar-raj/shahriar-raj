@@ -24,6 +24,7 @@ In this section. I will link mostly the sessional home and lab assignments I com
 [**CSE 310 : Compiler Sessional**](https://github.com/shahriar-raj/CSE_310-Compiler-Sessional.git) <br>
 [**CSE 306 : Computer Architecture Sessional**](https://github.com/shahriar-raj/CSE_306-Computer-Architecture-Sessional.git)
 <br>
+[**CSE 308 : Software Engineering Sessional**](https://github.com/shahriar-raj/CSE_308-Software-Engineering-Sessional.git) <br>
 # ![Colored Badge](https://img.shields.io/badge/Level_3_Term_2-223a57)
 [**CSE 314 : Operating System Sessional**](https://github.com/shahriar-raj/CSE_314-Operating-System-Sessional.git) <br>
 [**CSE 318 : Artificial Intelligence Sessional**](https://github.com/shahriar-raj/CSE_318-Artificial-Intelligence-Sessional.git) <br>
