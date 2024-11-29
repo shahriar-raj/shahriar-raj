@@ -35,6 +35,10 @@ In this section. I will link mostly the sessional home and lab assignments I com
 [**CSE 406 : Computer Security Project**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Project.git) <br>
 [**CSE 406 : Computer Security Sessional**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Sessional.git) <br>
 [**CSE 410 : Computer Graphics Sessional**](https://github.com/shahriar-raj/CSE_410-Computer-Graphics.git)
+
+# ![Colored Badge](https://img.shields.io/badge/Level_4_Term_2-223a57)
+[**CSE 472 : Machine Learning Sessional**](https://github.com/shahriar-raj/CSE_472-Machine-Learning-Sessional.git)
+
 # 📫 Contact Me
 - [Email](mailto:shahriarraj121@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shahriar-raj-724638213/)
