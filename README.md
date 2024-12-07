@@ -18,7 +18,9 @@ In this section. I will link mostly the sessional home and lab assignments I com
 <br>
 # ![Colored Badge](https://img.shields.io/badge/Level_2_Term_2-223a57)
 [**CSE 208 : Data Structures and Algorithms-II Sessional**](https://github.com/shahriar-raj/CSE_208-Data-Structures-and-Algorithms-II-Sessional.git) <br>
-[**CSE 216 : EduCare-Database-Sessional-Project**](https://github.com/shahriar-raj/CSE_216-EduCare-Database-Sessional-Project.git)
+[**CSE 216 : EduCare Database Sessional Project**](https://github.com/shahriar-raj/CSE_216-EduCare-Database-Sessional-Project.git)
+<br>
+[**CSE 216 : Database Sessional**](https://github.com/shahriar-raj/CSE_216-Database-Sessional.git)
 <br>
 # ![Colored Badge](https://img.shields.io/badge/Level_3_Term_1-223a57)
 [**CSE 310 : Compiler Sessional**](https://github.com/shahriar-raj/CSE_310-Compiler-Sessional.git) <br>
