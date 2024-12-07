@@ -34,7 +34,7 @@ In this section. I will link mostly the sessional home and lab assignments I com
 [**CSE 326 : ReMan Module Implementation**](https://github.com/shahriar-raj/CSE_326-ReMan-Module-Implementation.git) <br>
 
 # ![Colored Badge](https://img.shields.io/badge/Level_4_Term_1-223a57)
-[**CSE 406 : Computer Security Project**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Project.git) <br>
+[**GoBuster Computer Security Project**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Project.git) <br>
 [**CSE 406 : Computer Security Sessional**](https://github.com/shahriar-raj/CSE_406-Computer-Security-Sessional.git) <br>
 [**CSE 410 : Computer Graphics Sessional**](https://github.com/shahriar-raj/CSE_410-Computer-Graphics.git)
 
