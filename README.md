@@ -3,6 +3,7 @@
 # About Me 👦
 - 🎓 Undergraduate Senior, BUET CSE
 - 📫 How to reach me: shahriarraj121@gmail.com
+- Portfolio: [shahriar-raj](https://shahriar-raj.github.io/my-portfolio/)
 
 # Academic Repos 📚
 In this section. I will link mostly the sessional home and lab assignments I completed during my undergraduate years. <br>
